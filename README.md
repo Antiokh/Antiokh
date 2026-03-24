@@ -90,16 +90,6 @@ My work sits at the intersection of business processes, internal systems, automa
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">View case study</a></p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/qr_cloud/media/qr-cloud-mobile.png" alt="QR Cloud" />
-        </a>
-        <h3>QR Cloud</h3>
-        <p>Digital business card platform with public pages, QR access, company profiles, and paperless contact-sharing workflows.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">View case study</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">
           <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_tours/media/iPhone%2012%20Pro-dobri-tours.png" alt="Dobri Tours" />
         </a>
@@ -107,6 +97,26 @@ My work sits at the intersection of business processes, internal systems, automa
         <p>Tour management platform with booking workflows, loyalty mechanics, ratings, and social-driven trip participation.</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">View case study</a></p>
       </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/qr_cloud/media/qr-cloud-mobile.png" alt="QR Cloud" />
+        </a>
+        <h3>QR Cloud</h3>
+        <p>Digital business card platform with public pages, QR access, company profiles, and paperless contact-sharing workflows.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/tgs.py/media/cli.png" alt="tgs.py" />
+        </a>
+        <h3>tgs.py</h3>
+        <p>Python Telegram toolkit for export, messaging, bulk operations, and structured dumps into text, JSON, CSV, and SQLite.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
           <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/french_plumbers_erp/media/interface.png" alt="French Plumbers ERP" />
@@ -115,8 +125,6 @@ My work sits at the intersection of business processes, internal systems, automa
         <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">
           <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/mommy_hana/media/dashboard.png" alt="MommyHana" />
@@ -125,13 +133,23 @@ My work sits at the intersection of business processes, internal systems, automa
         <p>Sales and bonus management system with WooCommerce integration and complex recursive commission logic.</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">View case study</a></p>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/ruskajela">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/ruskajela/media/ruskajela-mobile.png" alt="RuskaJela" />
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/interface_results.png" alt="Educate Online" />
         </a>
-        <h3>RuskaJela</h3>
-        <p>Local food marketplace concept for home-cooked meals, built as a mobile-first product with geolocation and marketplace flows.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ruskajela">View case study</a></p>
+        <h3>Educate Online</h3>
+        <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/makemelook">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/makemelook/media/MakeMeLook.png" alt="MakeMeLook" />
+        </a>
+        <h3>MakeMeLook</h3>
+        <p>Interaction-led Webflow landing page with horizontal motion behavior, floating elements, and a distinctive visual hook.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/makemelook">View case study</a></p>
       </td>
     </tr>
   </table>
