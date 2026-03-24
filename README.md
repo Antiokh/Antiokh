@@ -83,7 +83,7 @@ My work sits at the intersection of business processes, internal systems, automa
     <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_visarun/media/dobri-visarun-cover.png" alt="Dobri Visarun" />
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_visarun/media/dobri-visarun-mobile-main.png" alt="Dobri Visarun" />
         </a>
         <h3>Dobri Visarun</h3>
         <p>Visa-run automation product that centralized booking, communication, and operations, with major business impact after launch.</p>
@@ -100,29 +100,41 @@ My work sits at the intersection of business processes, internal systems, automa
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/educate-online-imac-main.png" alt="Educate Online" />
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_tours/media/dobri-tours-cover.png" alt="Dobri Tours" />
         </a>
-        <h3>Educate Online</h3>
-        <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
+        <h3>Dobri Tours</h3>
+        <p>Tour management platform with booking workflows, loyalty mechanics, ratings, and social-driven trip participation.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">View case study</a></p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/cashdesk_bubble/media/dashboard.png" alt="Cashdesk Accounting" />
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/french_plumbers_erp/media/interface.png" alt="French Plumbers ERP" />
         </a>
-        <h3>Cashdesk Accounting</h3>
-        <p>Accounting and cashdesk management system with role-based access, transaction tracking, CSV export, and improved operational control.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble">View case study</a></p>
+        <h3>French Plumbers ERP</h3>
+        <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/mommy_hana/media/dashboard.png" alt="MommyHana" />
+        </a>
+        <h3>MommyHana MBO</h3>
+        <p>Sales and bonus management system with WooCommerce integration and complex recursive commission logic.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/tgs.py/media/cli.png" alt="tgs.py" />
+        </a>
+        <h3>tgs.py</h3>
+        <p>Python Telegram toolkit for export, messaging, bulk operations, and structured dumps into text, JSON, CSV, and SQLite.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">View case study</a></p>
       </td>
     </tr>
   </table>
-
-  <p>
-    Also available:
-    <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">Dobri Tours</a>,
-    <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">tgs.py</a>
-  </p>
 
 </details>
 
