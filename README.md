@@ -23,7 +23,7 @@ My work sits at the intersection of business processes, internal systems, automa
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">
-        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/promptlesspress/media/landing.png" alt="PromptlessPress" />
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/promptlesspress/media/cover_generation.png" alt="PromptlessPress" />
       </a>
       <h3>PromptlessPress</h3>
       <p>AI-assisted content generation platform with structured prompt composition, generation workflows, and reportable outputs.</p>
