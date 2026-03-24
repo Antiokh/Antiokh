@@ -49,7 +49,7 @@ My work sits at the intersection of business processes, internal systems, automa
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">
-        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/metafox_strengths_explorer/media/results.png" alt="MetaFox Strengths Explorer" />
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/metafox_strengths_explorer/media/cover.png" alt="MetaFox Strengths Explorer" />
       </a>
       <h3>MetaFox Strengths Explorer</h3>
       <p>Assessment and reporting platform with peer feedback, normalization logic, deterministic scoring, and PDF report delivery.</p>
