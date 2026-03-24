@@ -100,12 +100,12 @@ My work sits at the intersection of business processes, internal systems, automa
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_tours/media/dobri-tours-cover.png" alt="Dobri Tours" />
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/interface_results.png" alt="Educate Online" />
         </a>
-        <h3>Dobri Tours</h3>
-        <p>Tour management platform with booking workflows, loyalty mechanics, ratings, and social-driven trip participation.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">View case study</a></p>
+        <h3>Educate Online</h3>
+        <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
