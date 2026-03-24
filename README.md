@@ -31,7 +31,7 @@ My work sits at the intersection of business processes, internal systems, automa
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">
-        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/exit_lead/media/client_interface_dark_map.png" alt="Exit Lead" />
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/exit_lead/media/cover.png" alt="Exit Lead" />
       </a>
       <h3>Exit Lead</h3>
       <p>Inspection operations platform with field workflows, client portal, automated reports, and Supabase-based data architecture.</p>
