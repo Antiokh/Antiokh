@@ -79,7 +79,6 @@ My work sits at the intersection of business processes, internal systems, automa
 <details>
   <summary>More Project Work</summary>
 
-- [Vencer Autismo](https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo) - assessment and recommendation platform
 - [QR Cloud](https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud) - digital business card platform
 - [Educate Online](https://github.com/Antiokh/CV/tree/main/portfolio/educate_online) - corporate testing and team feedback system
 - [Cashdesk Accounting](https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble) - accounting and cashdesk management system
