@@ -4,32 +4,89 @@ I design and build systems that help businesses move from operational chaos to s
 
 My work sits at the intersection of business processes, internal systems, automation, and product delivery. I am strongest in environments where the business is already real, but the tooling, workflows, and architecture have not caught up yet.
 
-## What I Do
+## Focus
 
-- design internal tools and operational systems
-- build SaaS products and business platforms
-- automate workflows and data movement
-- restructure fragile or rushed systems
-- reduce dependency on manual routines and key people
-- turn spreadsheets, disconnected tools, and no-code chaos into maintainable systems
-
-## Main Areas
-
-- `Supabase`, `PostgreSQL`, `Edge Functions`
-- `n8n` automation and orchestration
-- `Xano` backend architecture
-- low-code / hybrid system design
-- internal tools, portals, and SaaS
+- internal tools and operational systems
+- SaaS products and business platforms
+- workflow automation and orchestration
+- backend architecture and integrations
 - platform migration and lock-in reduction
-- self-hosted and ownership-friendly architectures
+- self-hosted and ownership-friendly systems
 
-## Selected Work
+## Core Stack
 
-- [PromptlessPress](https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress)
-- [Exit Lead](https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead)
-- [AIS MosRazvitie](https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie)
-- [MetaFox Strengths Explorer](https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer)
-- [Andronyevskaya ERP](https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp)
+`Supabase` `PostgreSQL` `Edge Functions` `n8n` `Xano` `WeWeb` `Bubble` `Glide` `Docker` `APIs`
+
+## Project Showcase
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/promptlesspress/media/landing.png" alt="PromptlessPress" />
+      </a>
+      <h3>PromptlessPress</h3>
+      <p>AI-assisted content generation platform with structured prompt composition, generation workflows, and reportable outputs.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/exit_lead/media/client_interface_dark_map.png" alt="Exit Lead" />
+      </a>
+      <h3>Exit Lead</h3>
+      <p>Inspection operations platform with field workflows, client portal, automated reports, and Supabase-based data architecture.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">View case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/andronyevskaya_erp/media/interface_standalone.png" alt="Andronyevskaya ERP" />
+      </a>
+      <h3>Andronyevskaya ERP</h3>
+      <p>Self-hosted property support system with Telegram Mini App access, QR-based workflows, role-based execution, and internal automation.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/metafox_strengths_explorer/media/results.png" alt="MetaFox Strengths Explorer" />
+      </a>
+      <h3>MetaFox Strengths Explorer</h3>
+      <p>Assessment and reporting platform with peer feedback, normalization logic, deterministic scoring, and PDF report delivery.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">View case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/ais_mosrazvitie/media/interface.png" alt="AIS MosRazvitie" />
+      </a>
+      <h3>AIS MosRazvitie</h3>
+      <p>Large operational and reporting system for public institutions, with security redesign, reporting generators, and process restructuring.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/french_plumbers_erp/media/interface.png" alt="French Plumbers ERP" />
+      </a>
+      <h3>French Plumbers ERP</h3>
+      <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>More Project Work</summary>
+
+- [Vencer Autismo](https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo) - assessment and recommendation platform
+- [QR Cloud](https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud) - digital business card platform
+- [Educate Online](https://github.com/Antiokh/CV/tree/main/portfolio/educate_online) - corporate testing and team feedback system
+- [Cashdesk Accounting](https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble) - accounting and cashdesk management system
+- [Dobri Tours](https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours) - tour management and booking platform
+- [tgs.py](https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py) - Telegram export and automation toolkit
+
+</details>
 
 ## More
 
