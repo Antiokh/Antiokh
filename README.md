@@ -126,12 +126,12 @@ My work sits at the intersection of business processes, internal systems, automa
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">View case study</a></p>
       </td>
       <td width="50%" valign="top">
-        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/tgs.py/media/cli.png" alt="tgs.py" />
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/ruskajela">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/ruskajela/media/ruskajela-mobile.png" alt="RuskaJela" />
         </a>
-        <h3>tgs.py</h3>
-        <p>Python Telegram toolkit for export, messaging, bulk operations, and structured dumps into text, JSON, CSV, and SQLite.</p>
-        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">View case study</a></p>
+        <h3>RuskaJela</h3>
+        <p>Local food marketplace concept for home-cooked meals, built as a mobile-first product with geolocation and marketplace flows.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ruskajela">View case study</a></p>
       </td>
     </tr>
   </table>
