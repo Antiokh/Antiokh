@@ -79,11 +79,50 @@ My work sits at the intersection of business processes, internal systems, automa
 <details>
   <summary>More Project Work</summary>
 
-- [QR Cloud](https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud) - digital business card platform
-- [Educate Online](https://github.com/Antiokh/CV/tree/main/portfolio/educate_online) - corporate testing and team feedback system
-- [Cashdesk Accounting](https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble) - accounting and cashdesk management system
-- [Dobri Tours](https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours) - tour management and booking platform
-- [tgs.py](https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py) - Telegram export and automation toolkit
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_visarun/media/dobri-visarun-cover.png" alt="Dobri Visarun" />
+        </a>
+        <h3>Dobri Visarun</h3>
+        <p>Visa-run automation product that centralized booking, communication, and operations, with major business impact after launch.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/qr_cloud/media/qr-cloud-mobile.png" alt="QR Cloud" />
+        </a>
+        <h3>QR Cloud</h3>
+        <p>Digital business card platform with public pages, QR access, company profiles, and paperless contact-sharing workflows.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/educate-online-imac-main.png" alt="Educate Online" />
+        </a>
+        <h3>Educate Online</h3>
+        <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/cashdesk_bubble/media/dashboard.png" alt="Cashdesk Accounting" />
+        </a>
+        <h3>Cashdesk Accounting</h3>
+        <p>Accounting and cashdesk management system with role-based access, transaction tracking, CSV export, and improved operational control.</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/cashdesk_bubble">View case study</a></p>
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    Also available:
+    <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">Dobri Tours</a>,
+    <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">tgs.py</a>
+  </p>
 
 </details>
 
