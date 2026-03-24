@@ -4,6 +4,9 @@ I design and build systems that help businesses move from operational chaos to s
 
 My work sits at the intersection of business processes, internal systems, automation, and product delivery. I am strongest in environments where the business is already real, but the tooling, workflows, and architecture have not caught up yet.
 
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-14a800?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ef57d388c776f72a)
+[![Upwork Job Success](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-108a00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ef57d388c776f72a)
+
 ## Focus
 
 - internal tools and operational systems
