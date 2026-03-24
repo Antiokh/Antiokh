@@ -18,11 +18,11 @@ My work sits at the intersection of business processes, internal systems, automa
 
 ## Core Stack
 
-`Supabase` `PostgreSQL` `Edge Functions` `n8n` `Xano` `WeWeb` `Bubble` `Glide` `Docker` `APIs`
+`Supabase` `PostgreSQL` `Edge Functions` `n8n` `Make.com` `Zapier` `Xano` `WeWeb` `Bubble` `Docker` `APIs`
 
 ## Integrations & APIs
 
-`OpenAI` `fal.ai` `Google Translate API` `Stripe` `Radar.io` `Google Maps` `OpenStreetMap`
+`OpenAI` `fal.ai` `Bing Translate API` `Stripe` `Radar.io` `Google Maps` `OpenStreetMap` `Telegram Bot API` `Google Sheets` `WooCommerce` `OAuth` `webhooks`
 
 ## Custom WeWeb Component Work
 
