@@ -20,6 +20,18 @@ My work sits at the intersection of business processes, internal systems, automa
 
 `Supabase` `PostgreSQL` `Edge Functions` `n8n` `Xano` `WeWeb` `Bubble` `Glide` `Docker` `APIs`
 
+## Integrations & APIs
+
+`OpenAI` `fal.ai` `Google Translate API` `Stripe` `Radar.io` `Google Maps` `OpenStreetMap`
+
+## Custom WeWeb Component Work
+
+- map components (`leaflet-map`, `leaflet-map-advanced`, `osm-map`)
+- Telegram Mini App bridge (`telegram-handler`)
+- QR / barcode generators and scanners
+- searchable selects, editable lists, and reusable data-entry components
+- rating, multilang, media, and animation helpers
+
 ## Project Showcase
 
 <table>
