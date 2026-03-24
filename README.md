@@ -137,7 +137,7 @@ My work sits at the intersection of business processes, internal systems, automa
     <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
-          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/interface_results.png" alt="Educate Online" />
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/educate-online-imac-main.png" alt="Educate Online" />
         </a>
         <h3>Educate Online</h3>
         <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
