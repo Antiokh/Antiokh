@@ -66,12 +66,12 @@ My work sits at the intersection of business processes, internal systems, automa
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">View case study</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
-        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/french_plumbers_erp/media/interface.png" alt="French Plumbers ERP" />
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/vencer_autismo/media/dashboard.png" alt="Vencer Autismo" />
       </a>
-      <h3>French Plumbers ERP</h3>
-      <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
-      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
+      <h3>Vencer Autismo</h3>
+      <p>Assessment and recommendation platform with structured testing, weighted scoring, longitudinal tracking, and parent-facing guidance.</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo">View case study</a></p>
     </td>
   </tr>
 </table>
