@@ -178,3 +178,52 @@ My work sits at the intersection of business processes, internal systems, automa
 - [Short resume](https://github.com/Antiokh/CV/blob/main/RESUME.md)
 
 This repository is intentionally minimal. The detailed source of truth for my experience, case studies, and positioning lives in the linked CV repository.
+
+## CodeRabbit Coordination
+
+This repository also acts as the central coordination point for CodeRabbit free-plan retry automation across multiple Antiokh repositories.
+
+### Why issue `#3` exists
+
+Issue [`#3`](https://github.com/Antiokh/Antiokh/issues/3) is the shared machine-readable event log for CodeRabbit rate-limit coordination.
+
+Connected repositories write structured comments there when:
+
+- CodeRabbit reports `Review limit reached`
+- a workflow sends `@coderabbitai review` after a cooldown expires
+
+This exists because CodeRabbit free-plan limits are effectively global for the same developer identity, not isolated to one pull request or one repository.
+
+### How it works
+
+Each connected repository runs the workflow:
+
+- `.github/workflows/coderabbit-auto-retry.yml`
+
+The workflow:
+
+1. Reads open PR comments in its own repository.
+2. Finds the latest `coderabbitai[bot]` comment by `updated_at`.
+3. If that comment says `Review limit reached`, parses `Next review available in: ...`.
+4. Writes a `rate_limited` event into `Antiokh/Antiokh#3`.
+5. Before sending `@coderabbitai review`, checks the global event log in `#3`.
+6. Sends retry only when the global cooldown window is open.
+7. Writes a `review_requested` event back into `#3`.
+
+### What issue `#3` is not
+
+Issue `#3` is not a human discussion thread and not a product backlog item. It is infrastructure state for GitHub Actions automation.
+
+### Repositories currently using this coordination
+
+- `Antiokh/rslive.ru`
+- `Antiokh/rslive_content`
+- `Antiokh/rslive_spy`
+- `Antiokh/sanity-rslive`
+- `Antiokh/Antiokh`
+
+### Operational note
+
+If this automation needs maintenance, the fuller runbook currently lives in:
+
+- `Antiokh/rslive.ru/docs/CODERABBIT_COORDINATION.md`
