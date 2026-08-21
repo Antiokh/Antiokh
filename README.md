@@ -46,8 +46,8 @@ My work sits at the intersection of business processes, internal systems, automa
   `Python` `PostgreSQL` `SQLAlchemy` `psycopg` `pyodbc` `pandas`
 - [`antiokh.ru`](https://github.com/Antiokh/antiokh.ru) — lightweight personal and professional site built from structured portfolio content.  
   `Astro` `TypeScript` `Wrangler`
-- [`ww-google-recaptcha-v3`](https://github.com/Antiokh/ww-google-recaptcha-v3) — custom WeWeb component for Google reCAPTCHA v3 integration.  
-  `Vue` `WeWeb` `Google reCAPTCHA v3`
+- [`ww-component-starter`](https://github.com/Antiokh/ww-component-starter) — reusable starter and documentation pack for building WeWeb custom components, including component scaffolding, `wwLib` references, official-pattern guidance, and agent-oriented development instructions.  
+  `Vue` `WeWeb` `JavaScript` `agentic development`
 - [`dokuwiki-plugin-uplatnica`](https://github.com/Antiokh/dokuwiki-plugin-uplatnica) — DokuWiki plugin for rendering Serbian payment slips (`uplatnica`).  
   `PHP` `DokuWiki`
 
