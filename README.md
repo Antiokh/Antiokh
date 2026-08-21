@@ -48,8 +48,6 @@ My work sits at the intersection of business processes, internal systems, automa
   `Supabase` `PostgreSQL` `Edge Functions` `TypeScript` `RLS` `agentic development`
 - [`ww-component-starter`](https://github.com/Antiokh/ww-component-starter) — reusable starter and documentation pack for building WeWeb custom components, including component scaffolding, `wwLib` references, official-pattern guidance, and agent-oriented development instructions.  
   `Vue` `WeWeb` `JavaScript` `agentic development`
-- [`dokuwiki-plugin-uplatnica`](https://github.com/Antiokh/dokuwiki-plugin-uplatnica) — DokuWiki plugin for rendering Serbian payment slips (`uplatnica`).  
-  `PHP` `DokuWiki`
 
 ## Project Showcase
 
