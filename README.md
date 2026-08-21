@@ -18,7 +18,11 @@ My work sits at the intersection of business processes, internal systems, automa
 
 ## Core Stack
 
-`Supabase` `PostgreSQL` `Edge Functions` `n8n` `Make.com` `Zapier` `Xano` `WeWeb` `Bubble` `Docker` `APIs`
+`PostgreSQL` `Supabase` `Edge Functions` `WeWeb` `Xano` `n8n` `Python` `JavaScript` `TypeScript` `Astro` `Vue` `Docker`
+
+## Platforms & Automation
+
+`Glide` `Bubble` `Webflow` `Make.com` `Zapier` `Cloudflare Pages` `GitHub Actions`
 
 ## Integrations & APIs
 
@@ -32,6 +36,21 @@ My work sits at the intersection of business processes, internal systems, automa
 - searchable selects, editable lists, and reusable data-entry components
 - rating, multilang, media, and animation helpers
 
+## Selected Public Repositories
+
+- [`humanizer_russian`](https://github.com/Antiokh/humanizer_russian) — Russian-language editing toolkit with a fast linting mode and source-aware editorial review focused on natural Russian, meaning preservation, and author voice.  
+  `Python` `CLI` `rule-based linting`
+- [`rslive_content`](https://github.com/Antiokh/rslive_content) — source of truth for RSLive, a structured Serbia relocation and life encyclopedia with MDX content, semantic indexing, fact-checking rules, and automated publishing.  
+  `Astro` `MDX` `GitHub Actions` `Cloudflare Pages`
+- [`postgres-to-accdb`](https://github.com/Antiokh/postgres-to-accdb) — PostgreSQL → Tableau Public export bridge producing Access `.accdb` or SPSS `.sav`, with streaming export, type conversion, indexes, and parameterized SQL.  
+  `Python` `PostgreSQL` `SQLAlchemy` `psycopg` `pyodbc` `pandas`
+- [`antiokh.ru`](https://github.com/Antiokh/antiokh.ru) — lightweight personal and professional site built from structured portfolio content.  
+  `Astro` `TypeScript` `Wrangler`
+- [`ww-google-recaptcha-v3`](https://github.com/Antiokh/ww-google-recaptcha-v3) — custom WeWeb component for Google reCAPTCHA v3 integration.  
+  `Vue` `WeWeb` `Google reCAPTCHA v3`
+- [`dokuwiki-plugin-uplatnica`](https://github.com/Antiokh/dokuwiki-plugin-uplatnica) — DokuWiki plugin for rendering Serbian payment slips (`uplatnica`).  
+  `PHP` `DokuWiki`
+
 ## Project Showcase
 
 <table>
@@ -42,6 +61,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>PromptlessPress</h3>
       <p>AI-assisted content generation platform with structured prompt composition, generation workflows, and reportable outputs.</p>
+      <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · Edge Functions · OpenAI · fal.ai · Stripe</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">View case study</a></p>
     </td>
     <td width="50%" valign="top">
@@ -50,6 +70,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>Exit Lead</h3>
       <p>Inspection operations platform with field workflows, client portal, automated reports, and Supabase-based data architecture.</p>
+      <p><strong>Stack:</strong> Glide · WeWeb · Supabase · n8n · DocsAutomator · OpenAI</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">View case study</a></p>
     </td>
   </tr>
@@ -60,6 +81,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>Andronyevskaya ERP</h3>
       <p>Self-hosted property support system with Telegram Mini App access, QR-based workflows, role-based execution, and internal automation.</p>
+      <p><strong>Stack:</strong> WeWeb · Supabase · Edge Functions · Telegram Mini App/Bot API · Leaflet · self-hosting</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp">View case study</a></p>
     </td>
     <td width="50%" valign="top">
@@ -68,6 +90,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>MetaFox Strengths Explorer</h3>
       <p>Assessment and reporting platform with peer feedback, normalization logic, deterministic scoring, and PDF report delivery.</p>
+      <p><strong>Stack:</strong> WeWeb · Xano · Google Analytics · PDF generation</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">View case study</a></p>
     </td>
   </tr>
@@ -78,6 +101,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>AIS MosRazvitie</h3>
       <p>Large operational and reporting system for public institutions, with security redesign, reporting generators, and process restructuring.</p>
+      <p><strong>Stack:</strong> IBM Domino/Notes · XPages · Java · JavaScript · XML · Yandex Maps API</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">View case study</a></p>
     </td>
     <td width="50%" valign="top">
@@ -86,6 +110,7 @@ My work sits at the intersection of business processes, internal systems, automa
       </a>
       <h3>Vencer Autismo</h3>
       <p>Assessment and recommendation platform with structured testing, weighted scoring, longitudinal tracking, and parent-facing guidance.</p>
+      <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · Chart.js · OAuth</p>
       <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo">View case study</a></p>
     </td>
   </tr>
@@ -102,6 +127,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>Dobri Visarun</h3>
         <p>Visa-run automation product that centralized booking, communication, and operations, with major business impact after launch.</p>
+        <p><strong>Stack:</strong> Glide · PWA · Make · Google Sheets · Telegram</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">View case study</a></p>
       </td>
       <td width="50%" valign="top">
@@ -110,6 +136,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>Dobri Tours</h3>
         <p>Tour management platform with booking workflows, loyalty mechanics, ratings, and social-driven trip participation.</p>
+        <p><strong>Stack:</strong> Glide · Make.com · Google Sheets · Telegram · webhooks</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">View case study</a></p>
       </td>
     </tr>
@@ -120,6 +147,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>QR Cloud</h3>
         <p>Digital business card platform with public pages, QR access, company profiles, and paperless contact-sharing workflows.</p>
+        <p><strong>Stack:</strong> Bubble.io · QR generation · public routes</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">View case study</a></p>
       </td>
       <td width="50%" valign="top">
@@ -128,6 +156,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>tgs.py</h3>
         <p>Python Telegram toolkit for export, messaging, bulk operations, and structured dumps into text, JSON, CSV, and SQLite.</p>
+        <p><strong>Stack:</strong> Python · Telethon · PySide6 · SQLite · cryptography · PyInstaller</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">View case study</a></p>
       </td>
     </tr>
@@ -138,6 +167,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>French Plumbers ERP</h3>
         <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
+        <p><strong>Stack:</strong> WeWeb · Supabase · Figma</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
       </td>
       <td width="50%" valign="top">
@@ -146,6 +176,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>MommyHana MBO</h3>
         <p>Sales and bonus management system with WooCommerce integration and complex recursive commission logic.</p>
+        <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · WooCommerce · WordPress · webhooks</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">View case study</a></p>
       </td>
     </tr>
@@ -156,6 +187,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>Educate Online</h3>
         <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
+        <p><strong>Stack:</strong> Bubble.io · Bing Translate API · custom calculation processing</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
       </td>
       <td width="50%" valign="top">
@@ -164,6 +196,7 @@ My work sits at the intersection of business processes, internal systems, automa
         </a>
         <h3>MakeMeLook</h3>
         <p>Interaction-led Webflow landing page with horizontal motion behavior, floating elements, and a distinctive visual hook.</p>
+        <p><strong>Stack:</strong> Webflow · interaction design · motion-driven UI</p>
         <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/makemelook">View case study</a></p>
       </td>
     </tr>
@@ -177,4 +210,4 @@ My work sits at the intersection of business processes, internal systems, automa
 - [Portfolio index](https://github.com/Antiokh/CV/tree/main/portfolio)
 - [Short resume](https://github.com/Antiokh/CV/blob/main/RESUME.md)
 
-This repository is intentionally minimal. The detailed source of truth for my experience, case studies, and positioning lives in the linked CV repository.
+This profile stays selective. The detailed source of truth for my experience, case studies, and positioning lives in the linked CV repository.
