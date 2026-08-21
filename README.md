@@ -44,8 +44,8 @@ My work sits at the intersection of business processes, internal systems, automa
   `Astro` `MDX` `GitHub Actions` `Cloudflare Pages`
 - [`postgres-to-accdb`](https://github.com/Antiokh/postgres-to-accdb) — PostgreSQL → Tableau Public export bridge producing Access `.accdb` or SPSS `.sav`, with streaming export, type conversion, indexes, and parameterized SQL.  
   `Python` `PostgreSQL` `SQLAlchemy` `psycopg` `pyodbc` `pandas`
-- [`antiokh.ru`](https://github.com/Antiokh/antiokh.ru) — lightweight personal and professional site built from structured portfolio content.  
-  `Astro` `TypeScript` `Wrangler`
+- [`supabase-project-starter`](https://github.com/Antiokh/supabase-project-starter) — agent-ready Supabase project starter with shared Edge Function helpers, auth and RLS guardrails, SQL versioning patterns, schema export workflows, and explicit support for cloud, local, and self-hosted environments.  
+  `Supabase` `PostgreSQL` `Edge Functions` `TypeScript` `RLS` `agentic development`
 - [`ww-component-starter`](https://github.com/Antiokh/ww-component-starter) — reusable starter and documentation pack for building WeWeb custom components, including component scaffolding, `wwLib` references, official-pattern guidance, and agent-oriented development instructions.  
   `Vue` `WeWeb` `JavaScript` `agentic development`
 - [`dokuwiki-plugin-uplatnica`](https://github.com/Antiokh/dokuwiki-plugin-uplatnica) — DokuWiki plugin for rendering Serbian payment slips (`uplatnica`).  
