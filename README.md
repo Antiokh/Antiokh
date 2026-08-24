@@ -57,14 +57,14 @@ My work sits at the intersection of business processes, internal systems, automa
   </tr>
 </table>
 
-## Selected Public Repositories
+## Public Engineering Projects
 
-- [`postgres-to-accdb`](https://github.com/Antiokh/postgres-to-accdb) — PostgreSQL → Tableau Public export bridge producing Access `.accdb` or SPSS `.sav`, with streaming export, type conversion, indexes, and parameterized SQL.  
-  `Python` `PostgreSQL` `SQLAlchemy` `psycopg` `pyodbc` `pandas`
-- [`supabase-project-starter`](https://github.com/Antiokh/supabase-project-starter) — agent-ready Supabase project starter with shared Edge Function helpers, auth and RLS guardrails, SQL versioning patterns, schema export workflows, and explicit support for cloud, local, and self-hosted environments.  
+- [`supabase-project-starter`](https://github.com/Antiokh/supabase-project-starter) — agent-ready Supabase engineering baseline with deployment-aware operating rules, source-of-truth boundaries, shared Edge Function helpers, SQL patterns, and reusable project infrastructure. [Case study](https://github.com/Antiokh/CV/tree/main/portfolio/supabase_project_starter)  
   `Supabase` `PostgreSQL` `Edge Functions` `TypeScript` `RLS` `agentic development`
-- [`ww-component-starter`](https://github.com/Antiokh/ww-component-starter) — reusable starter and documentation pack for building WeWeb custom components, including component scaffolding, `wwLib` references, official-pattern guidance, and agent-oriented development instructions.  
-  `Vue` `WeWeb` `JavaScript` `agentic development`
+- [`ww-component-starter`](https://github.com/Antiokh/ww-component-starter) — Vue/WeWeb custom-component engineering kit covering schema/runtime/editor contracts, platform APIs, advanced component patterns, and agent-oriented development guidance. [Case study](https://github.com/Antiokh/CV/tree/main/portfolio/ww_component_starter)  
+  `Vue` `WeWeb` `JavaScript` `wwLib` `agentic development`
+- [`tgs.py`](https://github.com/Antiokh/tgs.py) — Telegram operations toolkit that grew from a CLI utility into a modular product with structured exports, automation scaffolding, licensing, packaging, and an early desktop GUI. [Case study](https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py)  
+  `Python` `Telethon` `PySide6` `SQLite` `cryptography` `PyInstaller`
 
 ## Project Showcase
 
