@@ -36,12 +36,29 @@ My work sits at the intersection of business processes, internal systems, automa
 - searchable selects, editable lists, and reusable data-entry components
 - rating, multilang, media, and animation helpers
 
+## Focus Pet Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>RSLive / «Инструкция по Сербии»</h3>
+      <p>Evidence-oriented relocation encyclopedia built as a maintained knowledge system rather than a collection of blog posts. The public content source of truth is separated from the Astro/Starlight runtime, with explicit source hierarchy, semantic indexing, repository synchronization, and observable publishing.</p>
+      <p><strong>Role:</strong> creator · product owner · systems architect · developer · editor</p>
+      <p><strong>Stack:</strong> Astro · Starlight · MDX · Supabase · Sanity · GitHub Actions · Cloudflare Pages</p>
+      <p><a href="https://rslive.ru/">Live</a> · <a href="https://github.com/Antiokh/rslive_content">Source</a> · <a href="https://github.com/Antiokh/CV/tree/main/portfolio/rslive">Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>humanizer_russian</h3>
+      <p>Source-aware Russian editorial engine that separates linguistic norm from editorial preference. It combines deterministic linting, normalized editorial libraries, provenance and conflict handling, CI integration, machine-readable output, and a controlled model-evaluation layer.</p>
+      <p><strong>Role:</strong> creator · systems architect · developer · editorial/research lead</p>
+      <p><strong>Stack:</strong> Python · CLI · rule-based linting · JSON · CI · model evaluation</p>
+      <p><a href="https://github.com/Antiokh/humanizer_russian">Source</a> · <a href="https://github.com/Antiokh/CV/tree/main/portfolio/humanizer_russian">Case study</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Selected Public Repositories
 
-- [`humanizer_russian`](https://github.com/Antiokh/humanizer_russian) — Russian-language editing toolkit with a fast linting mode and source-aware editorial review focused on natural Russian, meaning preservation, and author voice.  
-  `Python` `CLI` `rule-based linting`
-- [`rslive_content`](https://github.com/Antiokh/rslive_content) — source of truth for RSLive, a structured Serbia relocation and life encyclopedia with MDX content, semantic indexing, fact-checking rules, and automated publishing.  
-  `Astro` `MDX` `GitHub Actions` `Cloudflare Pages`
 - [`postgres-to-accdb`](https://github.com/Antiokh/postgres-to-accdb) — PostgreSQL → Tableau Public export bridge producing Access `.accdb` or SPSS `.sav`, with streaming export, type conversion, indexes, and parameterized SQL.  
   `Python` `PostgreSQL` `SQLAlchemy` `psycopg` `pyodbc` `pandas`
 - [`supabase-project-starter`](https://github.com/Antiokh/supabase-project-starter) — agent-ready Supabase project starter with shared Edge Function helpers, auth and RLS guardrails, SQL versioning patterns, schema export workflows, and explicit support for cloud, local, and self-hosted environments.  
