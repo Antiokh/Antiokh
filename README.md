@@ -36,23 +36,165 @@ I treat architecture as a management instrument, not a diagram. Critical systems
 
 I am hands-on when that reduces uncertainty or accelerates delivery, but the objective is a system the organisation can operate without depending on me.
 
-## Selected proof
+## Selected systems
 
-### Business and operational systems
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_visarun/media/dobri-visarun-mobile-main.png" alt="Dobri Visarun" />
+      </a>
+      <h3>Dobri Visarun</h3>
+      <p>Service-business automation and operational restructuring that reduced routine handling from hours to minutes and supported approximately <strong>10× organic revenue growth</strong> in about three months.</p>
+      <p><strong>Stack:</strong> Glide · PWA · Make · Google Sheets · Telegram</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/ais_mosrazvitie/media/interface.png" alt="AIS MosRazvitie" />
+      </a>
+      <h3>AIS MosRazvitie</h3>
+      <p>Industry-level operational and reporting system across <strong>100+ institutions</strong>, combining governance, analytics, integrations, security, adoption, and approximately <strong>20× faster</strong> heavy exports.</p>
+      <p><strong>Stack:</strong> IBM Domino/Notes · XPages · Java · JavaScript · XML · Yandex Maps API</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie">View case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/exit_lead/media/cover.png" alt="Exit Lead" />
+      </a>
+      <h3>Exit Lead</h3>
+      <p>Field operations and client reporting platform that consolidated fragmented workflows and moved approximately <strong>70,000 historical documents</strong> into a structured backend.</p>
+      <p><strong>Stack:</strong> Glide · WeWeb · Supabase · n8n · DocsAutomator · OpenAI</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/andronyevskaya_erp/media/interface_standalone.png" alt="Andronyevskaya ERP" />
+      </a>
+      <h3>Andronyevskaya ERP</h3>
+      <p>Self-hosted operational ERP with role-based execution, QR-linked assets, Telegram Mini App access, real-time tasks, and automation designed to reduce platform and key-person dependency.</p>
+      <p><strong>Stack:</strong> WeWeb · Supabase · Edge Functions · Telegram Mini App/Bot API · Leaflet · self-hosting</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp">View case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/promptlesspress/media/cover_generation.png" alt="PromptlessPress" />
+      </a>
+      <h3>PromptlessPress</h3>
+      <p>AI-assisted generation platform built around reproducible execution rather than one-shot prompting: structured prompt composition, debug workflows, shared backend helpers, and engineering guardrails.</p>
+      <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · Edge Functions · OpenAI · fal.ai · Stripe</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress">View case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">
+        <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/metafox_strengths_explorer/media/cover.png" alt="MetaFox Strengths Explorer" />
+      </a>
+      <h3>MetaFox Strengths Explorer</h3>
+      <p>Assessment and reporting platform that translated an evolving methodology into deterministic scoring, peer feedback, reporting, and repeatable product workflows.</p>
+      <p><strong>Stack:</strong> WeWeb · Xano · Google Analytics · PDF generation</p>
+      <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/metafox_strengths_explorer">View case study</a></p>
+    </td>
+  </tr>
+</table>
 
-- **[Dobri Visarun](https://github.com/Antiokh/CV/tree/main/portfolio/dobri_visarun)** — service-business automation and operational restructuring behind approximately 10× organic revenue growth and a reduction of routine handling from hours to minutes.
-- **[AIS MosRazvitie](https://github.com/Antiokh/CV/tree/main/portfolio/ais_mosrazvitie)** — industry-level information system across 100+ institutions; reporting, analytics, access governance, integrations, and large-scale user adoption.
-- **[Exit Lead](https://github.com/Antiokh/CV/tree/main/portfolio/exit_lead)** — field operations, client workflows, automated reporting, and migration of approximately 70,000 historical documents into a structured backend.
-- **[Andronyevskaya ERP](https://github.com/Antiokh/CV/tree/main/portfolio/andronyevskaya_erp)** — self-hosted operational system with role-based workflows, Telegram Mini App access, QR-linked assets, real-time tasks, and automation.
-- **[PromptlessPress](https://github.com/Antiokh/CV/tree/main/portfolio/promptlesspress)** — AI-assisted generation platform with reproducible execution flows, prompt composition, debug tooling, and engineering guardrails.
+<details>
+  <summary>More visual project work</summary>
 
-### Public systems and engineering work
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/vencer_autismo/media/dashboard.png" alt="Vencer Autismo" />
+        </a>
+        <h3>Vencer Autismo</h3>
+        <p>Assessment and recommendation platform with structured testing, weighted scoring, longitudinal tracking, and parent-facing guidance.</p>
+        <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · Chart.js · OAuth</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/vencer_autismo">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/dobri_tours/media/iPhone%2012%20Pro-dobri-tours.png" alt="Dobri Tours" />
+        </a>
+        <h3>Dobri Tours</h3>
+        <p>Tour management platform with booking workflows, loyalty mechanics, ratings, and social-driven trip participation.</p>
+        <p><strong>Stack:</strong> Glide · Make.com · Google Sheets · Telegram · webhooks</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/dobri_tours">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/qr_cloud/media/qr-cloud-mobile.png" alt="QR Cloud" />
+        </a>
+        <h3>QR Cloud</h3>
+        <p>Digital business card platform with public pages, QR access, company profiles, and paperless contact-sharing workflows.</p>
+        <p><strong>Stack:</strong> Bubble.io · QR generation · public routes</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/qr_cloud">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/french_plumbers_erp/media/interface.png" alt="French Plumbers ERP" />
+        </a>
+        <h3>French Plumbers ERP</h3>
+        <p>Internal operations platform for a trade-services business, focused on structured workflows, documentation, and scalable execution.</p>
+        <p><strong>Stack:</strong> WeWeb · Supabase · Figma</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/french_plumbers_erp">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/mommy_hana/media/dashboard.png" alt="MommyHana" />
+        </a>
+        <h3>MommyHana MBO</h3>
+        <p>Sales and bonus management system with WooCommerce integration and complex recursive commission logic.</p>
+        <p><strong>Stack:</strong> WeWeb · Supabase/PostgreSQL · WooCommerce · WordPress · webhooks</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/mommy_hana">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/educate_online/media/educate-online-imac-main.png" alt="Educate Online" />
+        </a>
+        <h3>Educate Online</h3>
+        <p>Corporate testing and employee feedback platform with multilingual support, custom scoring logic, and result visualization.</p>
+        <p><strong>Stack:</strong> Bubble.io · Bing Translate API · custom calculation processing</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/educate_online">View case study</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/makemelook">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/makemelook/media/MakeMeLook.png" alt="MakeMeLook" />
+        </a>
+        <h3>MakeMeLook</h3>
+        <p>Interaction-led Webflow landing page with horizontal motion behavior, floating elements, and a distinctive visual hook.</p>
+        <p><strong>Stack:</strong> Webflow · interaction design · motion-driven UI</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/makemelook">View case study</a></p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">
+          <img src="https://raw.githubusercontent.com/Antiokh/CV/main/portfolio/tgs.py/media/cli.png" alt="tgs.py" />
+        </a>
+        <h3>tgs.py</h3>
+        <p>Python Telegram toolkit for export, messaging, bulk operations, and structured dumps into text, JSON, CSV, and SQLite.</p>
+        <p><strong>Stack:</strong> Python · Telethon · PySide6 · SQLite · cryptography · PyInstaller</p>
+        <p><a href="https://github.com/Antiokh/CV/tree/main/portfolio/tgs.py">View case study</a></p>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+## Public systems and engineering work
 
 - **[RSLive / «Инструкция по Сербии»](https://rslive.ru/)** — evidence-oriented relocation knowledge system with a separate content source of truth, semantic indexing, editorial governance, and automated publishing. [Source](https://github.com/Antiokh/rslive_content) · [Case study](https://github.com/Antiokh/CV/tree/main/portfolio/rslive)
 - **[humanizer_russian](https://github.com/Antiokh/humanizer_russian)** — source-aware Russian editorial engine with deterministic linting, provenance, conflict handling, CI integration, and controlled model evaluation. [Case study](https://github.com/Antiokh/CV/tree/main/portfolio/humanizer_russian)
 - **[supabase-project-starter](https://github.com/Antiokh/supabase-project-starter)** — reusable Supabase engineering baseline with deployment-aware operating rules, source-of-truth boundaries, shared Edge Function helpers, SQL patterns, and agent-ready delivery guidance.
 - **[ww-component-starter](https://github.com/Antiokh/ww-component-starter)** — Vue/WeWeb custom-component engineering kit covering schema/runtime/editor contracts, platform APIs, and advanced reusable component patterns.
-- **[tgs.py](https://github.com/Antiokh/tgs.py)** — Telegram operations toolkit with structured exports, automation scaffolding, packaging, licensing, and an early desktop GUI.
 
 ## Technical depth
 
